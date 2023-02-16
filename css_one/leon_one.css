@@ -136,7 +136,7 @@ header .container .links ul {
   display: none;
 }
 
-header .container .links:hover ul {
+header .container .links .clicks {
   display: block;
 }
 
